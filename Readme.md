@@ -1,8 +1,6 @@
-### Introducciñon a Python
+### Introducción a Python
 
----
 
-##### Intalaciones necesarias
 
 > [!NOTE] 
 > * herramientas
@@ -12,6 +10,9 @@
 > [Python v3.12](https://www.python.org/downloads/)
 > 
 >
+
+---
+
 > * Plugins VScode
 > [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 >   * [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
