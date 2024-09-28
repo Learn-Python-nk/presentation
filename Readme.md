@@ -4,7 +4,7 @@
 
 ##### Intalaciones necesarias
 
-> [!info]
+> [!NOTE] 
 > * herramientas
 >   [vscode](https://code.visualstudio.com/download)
 >
@@ -21,7 +21,7 @@
 > [Pythonautas](https://marketplace.visualstudio.com/items?itemName=Pythonautas.Pythonautas)
 >
 
-> [!info]
+> [!TIP]
 > Configuraciones
 >  En el IDE VScode vamos a utilizar el shortcut "ctrl + P" o "command + P"
 >   - Python: Select Interpreter
