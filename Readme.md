@@ -1,6 +1,6 @@
 ### Introducción a Python
 
-
+---
 
 > [!NOTE] 
 > * herramientas
