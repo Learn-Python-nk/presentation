@@ -13,9 +13,9 @@
 > [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 >   * [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 >   * [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
-> [autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)
-> [Material Icon](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-> [Pythonautas](https://marketplace.visualstudio.com/items?itemName=Pythonautas.Pythonautas)
+> - [autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)
+> - [Material Icon](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+> - [Pythonautas](https://marketplace.visualstudio.com/items?itemName=Pythonautas.Pythonautas)
 >
 
 <br/>
@@ -25,7 +25,7 @@
 
 > [!TIP]
 > Configuraciones
->  En el IDE VScode vamos a utilizar el shortcut "ctrl + P" o "command + P"
+>  En VScode vamos a utilizar el shortcut "ctrl + P" o "command + P"
 >   - Python: Select Interpreter
 >   - Format Document -> autopep8
 >   
