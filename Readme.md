@@ -25,6 +25,7 @@
 
 > [!TIP]
 > Configuraciones
+>
 >  En VScode vamos a utilizar el shortcut "ctrl + P" o "command + P"
 >   - Python: Select Interpreter
 >   - Format Document -> autopep8
